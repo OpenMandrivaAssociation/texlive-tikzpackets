@@ -3,7 +3,7 @@ Version:	55827
 Release:	2
 Summary:	Display network packets
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tikzpackets
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tikzpackets
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzpackets.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tikzpackets.doc.r%{version}.tar.xz
